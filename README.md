@@ -40,4 +40,4 @@ AI Engineer with 3 years of experience building production-grade LLM systems. I 
 Engineer's Degree in Data Science & AI, ESSAI (2021–2024)
 
 ## Connect
-[LinkedIn](https://linkedin.com/in/wahbi-benkhaled/) · [GitHub](https://github.com/YOUR-USERNAME) · wahbiibenkhaled@gmail.com
+[LinkedIn](https://linkedin.com/in/wahbi-benkhaled/) · [GitHub](https://github.com/wahbiibenkhaled-cmyk) · wahbiibenkhaled@gmail.com
